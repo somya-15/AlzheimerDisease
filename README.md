@@ -1,8 +1,8 @@
 # AlzheimerDisease
-###What it does
+### What it does
 The Xgboost trained model utilises a set of input parameters from the user which includes the Brain MRI scan information and the personal background information to predict the CDR value for early detection from Brain MRI.
 
-###How it's built
+### How it's built
 It is built through a processed stage involving-
 1. Data preprocessing
 2. Training Linear Model and analysing the performance, p-values, fitting plots, residuals, R-square values, etc.
